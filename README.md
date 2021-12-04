@@ -1,5 +1,5 @@
 # DMA-project
-**Data Mining and Analytics project on World Happiness Index**
+**Data Mining and Analytics project on World Happiness Index(2020)**
 
 Visualising ,Clustering & Predicting Happiness
 
