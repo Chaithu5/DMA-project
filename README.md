@@ -8,7 +8,11 @@ Happiness score = -2.1963 + 2.2597 ∗ Support + 0.0369 * GDP + 1.8856 * Health 
 **Libraries required**
 
 ->pip install sklearn
+
 ->pip install seaborn
+
 ->pip install matplotlib
+
 ->pip install numpy
+
 ->pip install pandas
